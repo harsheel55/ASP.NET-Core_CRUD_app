@@ -1,6 +1,6 @@
 **Homepage**
 ![image](https://github.com/user-attachments/assets/9336dccb-3ef7-4304-81b9-049edb3a6da6)**
-**Privacy Policy page**
+Privacy Policy page**
 ![image](https://github.com/user-attachments/assets/cfbdf40c-9920-4a21-9ddf-2b80e665229f)
 **Employee Index page**
 ![image](https://github.com/user-attachments/assets/b69d8175-0ad3-4195-a794-aa1e4d31079e)
