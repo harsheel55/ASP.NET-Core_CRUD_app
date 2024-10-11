@@ -7,13 +7,13 @@
 **Create a employee**
 ![image](https://github.com/user-attachments/assets/607e1662-1c19-405b-a6e6-6380b0a2e6d8)
 **After the create a employee**
-![image](https://github.com/user-attachments/assets/9c45f9bb-1a7e-4a8e-b4a1-c525211a7179)**
+![image](https://github.com/user-attachments/assets/9c45f9bb-1a7e-4a8e-b4a1-c525211a7179)
 **Edit page**
 ![image](https://github.com/user-attachments/assets/617c04c1-ba7a-4950-8d53-5f2f334a13f0)
-**After the editing**
-![image](https://github.com/user-attachments/assets/147c7434-7d5a-47ea-aec6-c831deda6f2b)
 **Details page**
-![image](https://github.com/user-attachments/assets/e490778c-dd03-4054-942c-50210df1442d)
+![image](https://github.com/user-attachments/assets/147c7434-7d5a-47ea-aec6-c831deda6f2b)
 **Delete page**
+![image](https://github.com/user-attachments/assets/e490778c-dd03-4054-942c-50210df1442d)
+**After the Deleting employee**
 ![image](https://github.com/user-attachments/assets/4f9a4c43-aabe-4ec9-ad58-3bd934047607)
 
